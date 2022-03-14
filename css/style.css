@@ -65,25 +65,5 @@ main{
         text-align: center;
         border-radius: 15px;
     }
-}
 
-@media screen and (min-height: 500px) {
-    .card img{
-        padding: 10px;
-    }
-    .card h1{ 
-        padding: 10px;
-        font-size: 18px;
-    }
-    .card p{
-        padding: 10px; 
-    }
-    
-    .card{
-        width: 300px;
-        height: 460px;
-        background-color: var(--White);
-        text-align: center;
-        border-radius: 15px;
-    }
 }
